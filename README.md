@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello 👋, I'm Eric (Chinese name: wu.liao) -- A backend architect, major in Java and Python.
+
+Any sponsorship from the community will greatly inspire me, thanks to everyone.
