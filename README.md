@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Hello 👋, I'm Eric (Chinese name: wu.liao) -- A backend architect, major in Java and Python.
+I'm Eric (Chinese name: wu.liao) -- A backend architect, major in Java and Python.
 
 Any sponsorship from the community will greatly inspire me, thanks to everyone.
