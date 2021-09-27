@@ -15,7 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github.com/liaow/liaow/blob/master/assets/header.png)
 
-I'm Eric (Chinese name: wu.liao) -- A backend architect, major in Java and Python.
+I make elegantly professional **💻 Distributed Systems and 🌐 Website** . 🌈    
 
-Any sponsorship from the community will greatly inspire me, thanks to everyone.
+* 🧐   Interested in full stack. Recent focus on backend architect.
+* 💻   With 12 years' development working experience.
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<!--
+<p align="center">
+<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+-->
+
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=liaow.liaow" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=liaow.liaow" alt="visitor badge"/>       
+</p>
+
+</p>
