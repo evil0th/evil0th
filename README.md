@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://github.com/liaow/liaow/blob/master/assets/header.png)
 
-I make elegantly professional **💻 Distributed Systems and 🌐 Website** . 🌈    
+I make elegantly professional Distributed Systems. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend architect.
-* 💻   With 12 years' development working experience.
+* 🔭   With 12 years' development working experience.
 
 <hr>
 <p align="center">
