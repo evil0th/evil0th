@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 I make elegantly professional Distributed Systems. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend architect.
-* 🔭   With 12 years' development working experience.
 
 <hr>
 <p align="center">
